@@ -1,0 +1,82 @@
+[
+	{
+		"model": "users.user",
+		"pk": 2,
+		"fields": {
+			"email": "admin@learnhit.com",
+			"first_name": "Admin",
+			"last_name": "Learnhit",
+			"middle_name": "Django",
+			"is_admin": 1,
+			"is_superuser": 1,
+			"premium": false,
+			"premium_life": false,
+			"premium_expiration_date": "2021-10-27T08:41:05.330Z",
+			"date_joined": "2021-10-27T08:41:05.330Z"
+		}
+	},
+	{
+		"model": "users.user",
+		"pk": 3,
+		"fields": {
+			"email": "kite@learnhit.com",
+			"first_name": "Kite",
+			"last_name": "Learnhit",
+			"middle_name": "Django",
+			"is_admin": 1,
+			"is_superuser": 0,
+			"premium": false,
+			"premium_life": false,
+			"premium_expiration_date": "2021-10-27T08:41:05.330Z",
+			"date_joined": "2021-10-27T08:41:05.330Z"
+		}
+	},
+	{
+		"model": "users.user",
+		"pk": 4,
+		"fields": {
+			"email": "johndoe@learnhit.com",
+			"first_name": "John",
+			"last_name": "Doe",
+			"middle_name": "Learnhit",
+			"is_admin": 0,
+			"is_superuser": 0,
+			"premium": false,
+			"premium_life": false,
+			"premium_expiration_date": "2021-10-27T08:41:05.330Z",
+			"date_joined": "2021-10-27T08:41:05.330Z"
+		}
+	},
+	{
+		"model": "users.user",
+		"pk": 5,
+		"fields": {
+			"email": "sarahjohnson@learnhit.com",
+			"first_name": "Sarah",
+			"last_name": "Johnson",
+			"middle_name": "Learnhit",
+			"is_admin": 0,
+			"is_superuser": 0,
+			"premium": false,
+			"premium_life": false,
+			"premium_expiration_date": "2021-10-27T08:41:05.330Z",
+			"date_joined": "2021-10-27T08:41:05.330Z"
+		}
+	},
+	{
+		"model": "users.user",
+		"pk": 6,
+		"fields": {
+			"email": "walterwhite@learnhit.com",
+			"first_name": "Walter",
+			"last_name": "White",
+			"middle_name": "Learnhit",
+			"is_admin": 0,
+			"is_superuser": 0,
+			"premium": false,
+			"premium_life": false,
+			"premium_expiration_date": "2021-10-27T08:41:05.330Z",
+			"date_joined": "2021-10-27T08:41:05.330Z"
+		}
+	}
+]
